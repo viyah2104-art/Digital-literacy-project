@@ -1,13 +1,13 @@
-# 📌 Digital Literacy Project
+# Digital Literacy Project
 
-## 👩‍🎓 Student Details
+## Student Details
 - **Name:** Viya Harpalani  
 - **Registration Number:** 25BHI10089 
 - **Course/Subject:** Digital Literacy  
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 This project focuses on building a strong foundation in **digital literacy**, which is an essential skill in today’s technology-driven world. Digital literacy involves the ability to effectively use digital tools, platforms, and technologies for communication, collaboration, and problem-solving.
 
 The objective of this project is to:
@@ -20,7 +20,7 @@ This repository contains all the tasks, reflections, and activities completed as
 
 ---
 
-## 📚 Module Summaries
+## Module Summaries
 
 ### 🔹 Module 1: Introduction to Digital Literacy
 - Learned the meaning and importance of digital literacy  
@@ -40,7 +40,7 @@ This repository contains all the tasks, reflections, and activities completed as
 - Used tools like Canva, GitHub, and collaborative platforms  
 - Learned file sharing, version control, and teamwork  
 - Understood how digital tools improve productivity
-  [Link to google form](https://docs.google.com/forms/d/e/1FAIpQLScPw_3uDYHfG6E9jMZc908S2xlj4CslogVAqCqZguYJh-xmbQ/viewform?usp=publish-editor) 
+- [Link to google form](https://docs.google.com/forms/d/e/1FAIpQLScPw_3uDYHfG6E9jMZc908S2xlj4CslogVAqCqZguYJh-xmbQ/viewform?usp=publish-editor) 
 
 ---
 
@@ -58,7 +58,7 @@ This repository contains all the tasks, reflections, and activities completed as
 
 ---
 
-## 🛠️ Tools & Platforms Used
+## Tools & Platforms Used
 - GitHub  
 - LinkedIn  
 - Canva  
@@ -67,7 +67,7 @@ This repository contains all the tasks, reflections, and activities completed as
 
 ---
 
-## ⚠️ Academic Integrity Declaration
+## Academic Integrity Declaration
 This project is entirely my own work. All content, reflections, and submissions have been created by me as part of my academic requirements. I have not copied or plagiarized any material from external sources without proper acknowledgment.
 
 
